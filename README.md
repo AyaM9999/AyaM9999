@@ -44,8 +44,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaM9999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="GitHub statistics showing commit activity, stars, and other metrics" />
-  <img src="https://streak-stats.demolab.com?user=AyaM9999&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="GitHub streak statistics showing my daily contribution activity" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaM9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Top programming languages used in my repositories" />
 </div>
 
