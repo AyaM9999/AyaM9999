@@ -23,10 +23,10 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="Angular logo" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="Bootstrap logo" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jQuery logo" />
+<img src="https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white&style=for-the-badge" height="30" alt="Blazor logo" />
 
 #### 🚀 Frameworks & Platforms
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt=".NET logo" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="Node.js logo" />
 
 #### 🗃️ Databases
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" height="30" alt="Microsoft SQL Server logo" />
@@ -34,32 +34,4 @@
 
 #### 🛠️ Tools
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub logo" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git logo" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="Anaconda logo" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaM9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Top programming languages used in my repositories" />
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aya-m-14a244283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn profile link" />
-  </a>
-  <a href="mailto:mahmmoudaya5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="Email via Gmail" />
-  </a>
-  <a href="mailto:Aya.mahmoudd1@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" height="30" alt="Email via Outlook" />
-  </a>
-</div>
+<img src="https://img.shields.io/badge/TFS-0078D4?logo=visual-studio&logoColor=white&style=for-the-badge" height="30" alt="Team Foundation Version Control logo" />
